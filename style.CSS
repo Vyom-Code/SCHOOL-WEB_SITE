@@ -57,3 +57,36 @@ input {
     font-family: sans-serif;
     text-decoration-color: azure;
 }
+.school_mainDiv{
+    border:1px solid green;
+    padding-left: 0px;
+    padding-right: 0px;
+    float:none;
+    
+    
+}
+.school_mainDiv img {
+    width:100%;
+    
+}
+.school_mainDiv hr{
+    width:230px;
+}
+
+.school_mainDiv h5, .school_mainDiv p{
+    margin-left: 20px;}
+
+
+.ACH_head {
+    font-size: 20px;
+    border-radius: 20px;
+    padding:6px 22px;
+    margin-bottom: 20px;
+}
+
+.ACH_head i {
+    float:right;
+}
+.ACH_text span {
+    color:blue;
+}
